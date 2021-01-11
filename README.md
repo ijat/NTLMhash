@@ -1,3 +1,5 @@
+![.NET](https://github.com/ijat/NTLMhash/workflows/.NET/badge.svg)
+
 # How to use?
 
 1. Open this project using Visual Studio / Jetbrains Rider.
