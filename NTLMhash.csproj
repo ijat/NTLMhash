@@ -6,8 +6,7 @@
         <AssemblyVersion>1.0.0</AssemblyVersion>
         <FileVersion>1.0.0</FileVersion>
         <Version>1.0.0</Version>
-        <Authors>Izzat</Authors>
-        <Copyright>Emgraft Systems Sdn. Bhd.</Copyright>
+        <Authors>Ijat</Authors>
         <PublishTrimmed>true</PublishTrimmed>
         <TrimMode>CopyUsed</TrimMode>
         <RootNamespace>PassHash</RootNamespace>
